@@ -5,7 +5,7 @@ An easy to use push menu that has infinite scrolling. Designed to be lightweight
 
 <h2>Demo</h2>
 
-<a href="http://code-baker.com/demo/pushScrollMenu/">View Working Demo</h2>
+<a href="http://code-baker.com/demo/pushScrollMenu/" target="_blank">View Working Demo</h2>
 
 <h2>Options</h2>
 
