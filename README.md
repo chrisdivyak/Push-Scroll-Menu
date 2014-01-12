@@ -9,8 +9,8 @@ An easy to use push menu that has infinite scrolling. Designed to be lightweight
 
 <h2>Options</h2>
 
-menuID: "menu", //icon for mobile push menu
-slideOut: '300' //Speed of slideout menu
+<p>menuID: "menu", //icon for mobile push menu</p>
+<p>slideOut: '300' //Speed of slideout menu</p>
 
 <h2> The MIT License (MIT)</h2>
 
