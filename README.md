@@ -9,9 +9,12 @@ An easy to use push menu that has infinite scrolling. Designed to be lightweight
 
 <h2>Options</h2>
 
-<p>menuID: "menu", //icon for mobile push menu</p>
-<p>slideOut: '300' //Speed of slideout menu</p>
-
+```js
+$("#menu").flexNav({
+  'menuID': "menu", //IDfor mobile push menu
+  'slideOut': '300' //Speed of slideout menu  	  
+});
+```
 <h2> The MIT License (MIT)</h2>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
